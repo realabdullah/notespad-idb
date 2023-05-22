@@ -43,6 +43,7 @@ textarea {
 }
 
 .note {
+    width: 100%;
     list-style: none;
     background-color: #fff;
     padding: 15px;
