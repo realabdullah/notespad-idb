@@ -126,7 +126,4 @@ window.addEventListener("load", () => {
 
     // render notes on page load
     Note.renderNotes();
-
-    // add event listener to delete buttons
-    deleteNoteBtns();
 });
